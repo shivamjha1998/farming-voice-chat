@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+twilio
+python-dotenv
+scipy
+numpy
